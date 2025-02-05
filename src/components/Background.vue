@@ -2,7 +2,7 @@
   <div :class="store.backgroundShow ? 'cover show' : 'cover'">
     <img
       v-show="store.imgLoadStatus"
-      :src="bgUrl"
+      :src="/images/cyber.jpg"
       class="bg"
       alt="cover"
       @load="imgLoadComplete"
