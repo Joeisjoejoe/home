@@ -1,37 +1,28 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "谷歌学术",
+    "link": "https://scholar.google.com.hk/?hl=zh-CN/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "icon": "/images/icon/bilibili.png",
+    "name": "哔哩哔哩",
+    "link": "https://www.bilibili.com/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "GPT",
+    "link": "https://chat.openai.com/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "CompactDisc",
+    "name": "overleaf",
+    "link": "https://www.overleaf.com/project/"
   },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
+ 
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "游戏",
+    "link": "http://angrycrane.joeisjoe.com/"
   }
 ]
